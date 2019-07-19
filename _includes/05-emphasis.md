@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Skills
+Below is a list of skills I know:
+
+- __HTML__
+- *CSS3*
+- __jQuery__
+- _Javascript_
